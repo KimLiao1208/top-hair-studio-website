@@ -21,7 +21,7 @@ body {
   min-height: 100vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.75)),
-    url("images/salon2.jpg");
+    url("salon2.jpg");
   background-size: cover;
   background-position: center;
 }
